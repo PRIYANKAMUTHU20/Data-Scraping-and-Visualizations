@@ -1,7 +1,7 @@
 IMDB 2024 Data Scraping and Visualizations
 
 This project demonstrates end-to-end data scraping, cleaning, storage, and interactive visualization for IMDB movies released in 2024.
-It covers scraping movie data by genre, cleaning and consolidating the data, storing it in a cloud SQL database, and building interactive dashboards using Streamlit.
+It covers scraping movie data by genre, cleaning and consolidating the data, storing it in a SQL database, and building interactive dashboards using Streamlit.
 
 Workflow
 1. Data Scraping
